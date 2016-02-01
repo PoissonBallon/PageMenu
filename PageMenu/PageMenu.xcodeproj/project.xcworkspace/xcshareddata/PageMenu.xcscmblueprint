@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C23231E5EFD93B6A993CB3835D46F61DAF0EBC9F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C23231E5EFD93B6A993CB3835D46F61DAF0EBC9F" : 0,
+    "734BDFE2AF41F390740EF9BD3456F61E9C68D505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4A266E31-7D83-4869-8E29-60566FE17066",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C23231E5EFD93B6A993CB3835D46F61DAF0EBC9F" : "PageMenu\/",
+    "734BDFE2AF41F390740EF9BD3456F61E9C68D505" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PageMenu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PageMenu\/PageMenu.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:PoissonBallon\/Shimmer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "734BDFE2AF41F390740EF9BD3456F61E9C68D505"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:PoissonBallon\/PageMenu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C23231E5EFD93B6A993CB3835D46F61DAF0EBC9F"
+    }
+  ]
+}
